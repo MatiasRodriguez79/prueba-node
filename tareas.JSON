@@ -1,0 +1,18 @@
+[
+ {
+  "descripcion": "pasear el perro",
+  "estado": "no cumplido"
+ },
+ {
+  "descripcion": "hacer la comida",
+  "estado": "cumplido"
+ },
+ {
+  "descripcion": "estudiar JS",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "pasear al gato",
+  "estado": "pendiente"
+ }
+]
